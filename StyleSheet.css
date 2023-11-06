@@ -49,6 +49,27 @@ body{
 
 }
 
+.contacthomepage{
+   
+    background-color: aliceblue;
+    margin: 10px;
+    margin: right left  30px  ;
+    padding: 10px;
+    box-shadow: #002344 ;
+}
+
+h1{
+    color: #023463;
+}
+
+h2,h4{
+    color: rgb(60, 60, 60);
+
+}
+
+strong{
+    color: #023463;
+}
 /* card design */
 
 
@@ -62,6 +83,7 @@ body{
 .row{
     margin: 0px;
     padding: 10px;
+    margin-bottom: 10px;
 }
 
 .card-img{
